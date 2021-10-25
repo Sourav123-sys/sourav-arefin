@@ -1,0 +1,18 @@
+.contract-form{
+ max-width: 500px;
+ margin: auto;
+    padding:0px 30px;
+    padding-top: 14px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: 2px solid #6047ec ;
+   
+    
+}
+.contract-form h6{
+    color:#6047ec;
+}
+
+canvas.particles-bg-canvas-self{
+    top: 40px !important;
+}

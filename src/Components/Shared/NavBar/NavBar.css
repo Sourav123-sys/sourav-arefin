@@ -1,0 +1,66 @@
+.list a{
+color: white !important;
+padding: 10px !important;
+margin: 0px 20xp !important;
+}
+.list a:hover{
+background-image: linear-gradient(
+        30deg
+        , #ff35b4, #ff193f) !important;
+
+ border-radius: 5px;
+}
+.nav{
+  background-color:#1e5bf0 ;    
+}
+
+.nav.active{
+        background-color:#6047ec;
+}
+
+.hire{
+ border-radius: 6px ;
+background-image: linear-gradient(
+        30deg
+        , #ff35b4, #ff193f) !important;
+border: none;
+padding: 7px;
+margin-top: 5px;
+}
+.hire:hover{
+background-image: linear-gradient(
+    30deg
+ , #ff193f, #ff35b4) !important;
+}
+.sourav img{
+   width:75px !important;
+}
+.navbar-light .navbar-toggler {
+
+ background-image: linear-gradient(
+        30deg
+ , #ff35b4, #ff193f) !important;
+
+}
+.pdf-button{
+        background-image: linear-gradient(
+                30deg
+         , #ff35b4, #ff193f) !important;
+         text-decoration: none;
+    color: white;
+    padding: 5px 6px;
+    text-decoration: none !important;
+    border: none;
+    border: 1px solid white;
+    border-radius: 4px;
+   display: inline-block;
+
+}
+
+.pdf-button:hover{
+        color: white;
+        background-image: linear-gradient(
+                30deg
+         , #ff193f, #ff35b4) !important;
+         text-decoration: none;
+} 

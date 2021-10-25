@@ -1,0 +1,42 @@
+
+.technology span{
+    background: #6047ec;
+    margin-right: 5px;
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 3px 10px;
+    font-size: 13px;
+    height: 26px;
+    color: #fff;
+}
+.technology{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+.page-title{
+    margin: 10px 0px;
+}
+
+.page-title h3 {
+    border-bottom: 2px solid blue;
+    width: 100px;
+    padding-bottom: 10px;
+    padding-bottom: 6px;
+    color: #f735b6;
+}
+
+.technology span{
+    transition: 1s;
+}
+.technology span:hover {
+    background-color: #ff2572;
+    transition: .3s;
+}
+.myimg{
+    transition: .6s;
+}
+.myimg:hover{
+    transform: scale(1.02);
+    transition: .6s;
+}

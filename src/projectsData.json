@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "title": "FIXMOIZ auto service",
+        "details": " A responsive single-page app with authentication where users can book their services with a credit card.",
+        "image": "https://heuristic-wescoff-d81079.netlify.app/static/media/fixmoix.3adcb9e8.PNG",
+        "live": "https://car-repair-service-11880.firebaseapp.com/",
+        "client": "https://github.com/abdullahalnomanfb/fixmoiz-auto-service-client",
+        "server": "https://github.com/abdullahalnomanfb/fixmiox-auto-service-server",
+        "skills": 
+            {
+                "react": "React.js",
+                "node": "Node.js",
+                "express": " Express.js",
+                "mongo": "MongoDB",
+                "reactBootstrap": " React Bootstrap",
+                "firebase": "Firebase"
+            }
+        
+    },
+
+    {
+        "id": 2,
+        "title": "EmaJhon Simple",
+        "details": " This is a E-commerce website. Where customer buy any products with VISA card. And they can order place more products.",
+        "image": "https://heuristic-wescoff-d81079.netlify.app/static/media/ema.823a3662.PNG",
+        "live": "https://vigorous-shockley-c96520.netlify.app",
+        "client": "https://github.com/abdullahalnomanfb/ema-john-simple",
+        "server": "",
+        "skills":
+            {
+                "react": "React.js",
+                "node": "Node.js",
+                "express": " Express.js",
+                "mongo": "MongoDB",
+                "reactBootstrap": " React Bootstrap",
+                "firebase": "Firebase",
+                "Stripe":"Stripe",
+                "css":"CSS"
+            }
+    }
+
+]

@@ -1,0 +1,70 @@
+
+
+.site-link a {
+    color: black;
+    margin-right: 23px;
+    font-size: 17px;
+    text-decoration: none;
+}
+.site-link a:last-child{
+    color: blue;
+}
+
+.image-box{
+    position: relative;
+    overflow: hidden ;
+    transition:all ease 4s ;
+}
+.service-details-info{
+    position: absolute;
+    height: 300px;
+    top: 0;
+    color: hsl(36, 8%, 88%);
+    display: none;
+    padding: 10px;
+    padding-top: 30%;
+
+    
+}
+
+
+.image-box:hover .service-details-info{
+    
+    display: block;
+    background-color: #000000dc;
+   transition: 3s;
+    
+}
+
+.image-box:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
+
+}
+
+.card-details-web{
+
+    height: 220px;
+   
+}
+
+.card-info{
+    transition: 1s;
+}
+.card-info:hover{
+    transform: scale(1.02);
+    z-index: 9;
+    transition: 1s;
+}
+.card-info .card{
+    box-shadow:#6047ec63 10px 18px 17px;
+    border-radius: 10px;
+    transition: .3s;
+}
+
+.card-info .card:hover{
+    box-shadow:#6047ec9d 10px 18px 17px;
+    border-radius: 10px;
+    transition: .3s;
+    
+}

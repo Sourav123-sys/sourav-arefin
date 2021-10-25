@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "React core concepts",
+        "details": "   React is a library that used to create awesome user interface . Hence it is a library it need some other tools to make a complete web .",
+        "image": "https://reactjs.org/logo-og.png",
+        "link": "",
+        "date": "07 september 2021"   
+    },
+    {
+        "id": 2,
+        "title": "Javascript concepts",
+        "details": " Javascript is single thread programming language that work synchronously from its born habit, but it can do some asynchronous job ..",
+        "image": "https://scotch-res.cloudinary.com/image/upload/w_auto,q_auto:good,f_auto/media/38945/Hgg3I6kRT2zbA5Ugg7Ed_10%20NEED%20TO%20KNOW%20ESSENTIAL%20JAVASCRIPT%20CONCEPTS.png.jpg",
+        "link": "",
+        "date": "06 september, 2021 "   
+    },
+
+    {
+        "id": 3,
+        "title": "Introduction to Javascript",
+        "details": "JavaScript is  a fun and rewarding language, which is especially important when you’re just getting started in software development .",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97O3Eym1O_l0P1d0BcralvswIFcrxKrKcEg&usqp=CAU",
+        "link": "",
+        "date": "05 september, 2021 "   
+    },
+    {
+        "id": 4,
+        "title": "Javascript Interview Questions",
+        "details": "A job interview is an opportunity for the organization to find out what it wants to know about finalists for a position.",
+        "image": "https://jquery-plugins.net/image/plugin/javascript-interview-questions-and-answers.png",
+        "link": "",
+        "date": "04 september, 2021"   
+    }
+
+
+
+
+]

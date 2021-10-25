@@ -1,0 +1,8 @@
+.skill-part{
+    transition:.6s ;
+}
+.skill-part:hover{
+
+    transform: scale(1.2); 
+    transition: .6s;
+}

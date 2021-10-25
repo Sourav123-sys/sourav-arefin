@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+html {
+    scroll-behavior: smooth;
+  }
+  
+.project{
+    background-color:#f5f7ff;
+
+}
+.uniq-button{
+    background: linear-gradient(
+        45deg
+        ,#ff35b4,#ff193f);
+    padding: 8px 25px;
+    border: 2px solid #6047ec !important ;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+
+}
+.uniq-button:hover{
+    background: linear-gradient(
+45deg
+,#ff193f,#ff35b4);
+
+
+  
+}
+
+canvas.particles-bg-canvas-self {
+    height: 600px !important;
+}
+.skills-content{
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    /* background-image: linear-gradient(180deg,#6047ec,#ff35b4); */
+    background-color: #6047ec;
+    border-image-slice: 1;
+    max-width: 380px;
+    margin: auto;
+    padding: 10px 0px;
+    /* margin-top: 90px !important; */
+    margin-bottom: 40px !important;
+    font-size: 25px;
+    box-shadow: 14px 16px 46px -15px #6047ec;
+    color: #fff;
+    font-size: 25px;
+    /* background-color: #6047ec; */
+    border-radius: 40px;
+    transition: .3s;
+}

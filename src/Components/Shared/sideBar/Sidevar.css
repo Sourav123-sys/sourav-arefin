@@ -1,0 +1,79 @@
+
+.smoll-size-icon {
+    display: flex;
+    margin-right: 10px;
+}
+
+ul.list-items {
+    display: flex;
+}
+
+ul.list-items li {
+    list-style: none;
+    margin-right: 14px;
+}
+
+.small-size-icon {
+    width: 300px;
+    margin: auto;
+}
+.github{
+    color: rgb(46, 44, 44);
+    font-size: 30px;
+    margin-top: 10px;
+}
+.linkedin{
+    color:#0077b5;
+    font-size: 30px;
+}
+.facebook{
+    color:#3b5998;
+    font-size: 30px;
+}
+.mailto{
+    color: #d41b0e;
+    font-size: 30px;
+}
+/* fixed part */
+
+.social-bar{
+    position: fixed;
+    bottom: -15px;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.social-bar a {
+    display: inline-block;
+    margin-bottom: 20px;
+    transition: all .3s;
+}
+.social-bar:after {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 150px;
+    margin: 0 auto;
+    background-color: #6047ec;
+}
+dl, ol, ul {
+    padding-top: 10px;
+    margin-bottom: 0 !important;
+}
+.list-unstyled li a{
+
+   background-color: white;
+   padding: 2px 7px;
+   border-radius: 100%;
+   text-align: center;
+   transition: .4s !important;
+  
+}
+.list-unstyled li a:hover{
+    background-color: #ff2572;
+    transition: .4s !important;
+    color: white;
+}

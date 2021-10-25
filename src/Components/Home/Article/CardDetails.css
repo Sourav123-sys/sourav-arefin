@@ -1,0 +1,18 @@
+.card-article{
+    box-shadow:#6047ec63 10px 18px 17px;
+    border-radius: 10px;
+    transition: .3s;
+ 
+}
+
+
+
+.card-article:hover{
+    box-shadow:#6047ec9d 10px 18px 17px;
+    border-radius: 10px;
+    transition: .3s;
+    transform: scale(1.04);
+    
+
+    
+}
