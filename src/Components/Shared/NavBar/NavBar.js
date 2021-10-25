@@ -7,8 +7,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFile } from '@fortawesome/free-solid-svg-icons'
 
 const NavBar = () => {
-    //const link = 'https://drive.google.com/uc?export=download&id=1WyUxoLSU72ROxTBVONXnbufBQEfgVUwv';
-const link="https://drive.google.com/file/d/1QYYjLmW7zPK3aR0P0mEfyf_WJhPrJ3Q0/view?usp=sharing"
+
+const link="https://drive.google.com/uc?export=download&id=1QYYjLmW7zPK3aR0P0mEfyf_WJhPrJ3Q0"
     const [navbar, setNevbar] = useState(false);
 
     const changeBackground = () => {
